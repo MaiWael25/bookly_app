@@ -32,6 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
   font_awesome_flutter: ^10.8.0
+  fontfamily: ^0.0.3
   get: ^4.6.6
   google_fonts: ^6.2.1
 
