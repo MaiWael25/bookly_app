@@ -9,6 +9,7 @@ class CustomError extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Text(
+        textAlign: TextAlign.center,
         errmessage,
         style: Styles.textStyle18,
       ),
